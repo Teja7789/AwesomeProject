@@ -6,9 +6,9 @@ import AppPro from './AppPro';
 export default function App() {
   return (
     <View style={styles.container}>
-      {/* <Text>Hello World Texts data</Text>
       <Text>Hello World Texts data</Text>
-      <Text>Hello World Texts data</Text> */}
+      <Text>Hello World Texts data</Text>
+      <Text>Hello World Texts data</Text>
       <AppPro />
       <StatusBar style="auto" />
     </View>
